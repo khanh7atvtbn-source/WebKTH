@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Khoai tây chiên",
+    "price": 20000,
+    "image": "images/Khoai.jpg"
+  },
+  {
+    "name": "Gà rán",
+    "price": 30000,
+    "image": "images/garan.jpg"
+  },
+  {
+    "name": "Bánh tráng trộn",
+    "price": 15000,
+    "image": "images/banhtrangtron.jpg"
+  },
+  {
+    "name": "Xoài lắc",
+    "price": 25000,
+    "image": "images/xoailac.jpg"
+  },
+  {
+    "name": "Nem chua rán",
+    "price": 22000,
+    "image": "images/nemchuaran.jpg"
+  }
+]
